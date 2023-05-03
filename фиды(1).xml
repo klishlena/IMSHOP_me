@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2023-05-1 17:22">
+  <shop>
+    <categories>
+      <category id ="507" parentId = "501">Женские сандали</category>
+       <category id ="760" parentId = "555" >Сумки</category>
+    </categories>
+    <offers>
+      <offer id="274059"  available="true" group_id="1-10123"  sizeGridImage= "https://marioberlucci.ru/assets/images/foot-length.png">
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_10123_01//</url>
+<price>12990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-10123-01</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">36</param>
+<param name="Цвет" hex="#0000FF">Черный</param>
+<param name="Сезон">Лето"</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#0000FF">Черный</param>
+<param name="Цвет подкладки" hex="#0000FF">Черный</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы в см">100% 0.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип мыса">открытый</param>
+<param name="Тип каблука">стандартный</param>
+<param name="Высота каблука в см">1.5</param>
+<param name="Тим застежки">пряжка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Рост модели">178</param>
+<param name="Размер обуви на фото">38</param>
+<description>Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и средним и высоким подъёмом стопы. Стильные сандалии из новой коллекции выполнены из натуральной гладкой кожи и представлены в классической расцветке. Трендовый силуэт дополнен металлической фурнитурой и лаконичной подошвой из экологичного полимера. Анатомическая кожаная стелька подарит высокий уровень комфорта. Современная модель удачно впишется в летний образ на каждый день.</description>
+<rec title="Возможно, вам понравится" >226050,216911,227610,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/147/i0gynf0eul3x1jx5ebwsfgbvpszelms5/1_10123_01_7_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/b92/va4kjbijmhxo2al4f6p689zzdlhkwgav/1_10123_01_1_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/ef7/mhz9c4nayc4ltld34100p2d9u8rh0091/1_10123_01-_2_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/bae/a944kz3ei8e56zn3h9vdclbssdyykphs/1_10123_01-_3_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/650/0oatcegr20iu3eeknf1bjdn77h46k6hb/1_10123_01-_4_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/6ba/dtakc03cs4ase6mz4l3sj76qpsd0xlw2/1_10123_01-_5_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/199/wlikzr9bgdhjo1xdb40nprmg5py6twg5/1_10123_01-_6-_.jpg</picture>
+<rating>5</rating>
+<reviews_count>4</reviews_count>
+<video main="true"> https://marioberlucci.ru/upload/iblock/752/sxi4x15c663oevz9n8r3ui5map7l9vqt/1_10123_01-_8_.mp4</video>
+<cashback>909</cashback>
+      </offer>
+      <offer id="274059"  available="true" group_id="1-10123"  sizeGridImage= "https://marioberlucci.ru/assets/images/foot-length.png">
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_10123_01//</url>
+<price>12990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-10123-01</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">37</param>
+<param name="Цвет" hex="#0000FF">Черный</param>
+<param name="Сезон">Лето"</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#0000FF">Черный</param>
+<param name="Цвет подкладки" hex="#0000FF">Черный</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы в см">100% 0.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип мыса">открытый</param>
+<param name="Тип каблука">стандартный</param>
+<param name="Высота каблука в см">1.5</param>
+<param name="Тим застежки">пряжка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Рост модели">178</param>
+<param name="Размер обуви на фото">38</param>
+<description>Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и средним и высоким подъёмом стопы. Стильные сандалии из новой коллекции выполнены из натуральной гладкой кожи и представлены в классической расцветке. Трендовый силуэт дополнен металлической фурнитурой и лаконичной подошвой из экологичного полимера. Анатомическая кожаная стелька подарит высокий уровень комфорта. Современная модель удачно впишется в летний образ на каждый день.</description>
+<rec title="Возможно, вам понравится" >226050,216911,227610,274071 </rec>
+<picture>https://marioberlucci.ru/upload/iblock/147/i0gynf0eul3x1jx5ebwsfgbvpszelms5/1_10123_01_7_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/b92/va4kjbijmhxo2al4f6p689zzdlhkwgav/1_10123_01_1_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/ef7/mhz9c4nayc4ltld34100p2d9u8rh0091/1_10123_01-_2_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/bae/a944kz3ei8e56zn3h9vdclbssdyykphs/1_10123_01-_3_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/650/0oatcegr20iu3eeknf1bjdn77h46k6hb/1_10123_01-_4_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/6ba/dtakc03cs4ase6mz4l3sj76qpsd0xlw2/1_10123_01-_5_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/199/wlikzr9bgdhjo1xdb40nprmg5py6twg5/1_10123_01-_6-_.jpg</picture>
+<rating>5</rating>
+<reviews_count>4</reviews_count>
+<video main="true"> https://marioberlucci.ru/upload/iblock/752/sxi4x15c663oevz9n8r3ui5map7l9vqt/1_10123_01-_8_.mp4</video>
+<cashback>909</cashback>
+      </offer>
+      <offer id="274059"  available="true" group_id="1-10123"  sizeGridImage= "https://marioberlucci.ru/assets/images/foot-length.png">
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_10123_01//</url>
+<price>12990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-10123-01</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">38</param>
+<param name="Цвет" hex="#0000FF">Черный</param>
+<param name="Сезон">Лето"</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#0000FF">Черный</param>
+<param name="Цвет подкладки" hex="#0000FF">Черный</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы в см">100% 0.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип мыса">открытый</param>
+<param name="Тип каблука">стандартный</param>
+<param name="Высота каблука в см">1.5</param>
+<param name="Тим застежки">пряжка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Рост модели">178</param>
+<param name="Размер обуви на фото">38</param>
+<description>Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и средним и высоким подъёмом стопы. Стильные сандалии из новой коллекции выполнены из натуральной гладкой кожи и представлены в классической расцветке. Трендовый силуэт дополнен металлической фурнитурой и лаконичной подошвой из экологичного полимера. Анатомическая кожаная стелька подарит высокий уровень комфорта. Современная модель удачно впишется в летний образ на каждый день.</description>
+<rec title="Возможно, вам понравится" >226050,216911,227610,274071 </rec>
+<picture>https://marioberlucci.ru/upload/iblock/147/i0gynf0eul3x1jx5ebwsfgbvpszelms5/1_10123_01_7_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/b92/va4kjbijmhxo2al4f6p689zzdlhkwgav/1_10123_01_1_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/ef7/mhz9c4nayc4ltld34100p2d9u8rh0091/1_10123_01-_2_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/bae/a944kz3ei8e56zn3h9vdclbssdyykphs/1_10123_01-_3_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/650/0oatcegr20iu3eeknf1bjdn77h46k6hb/1_10123_01-_4_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/6ba/dtakc03cs4ase6mz4l3sj76qpsd0xlw2/1_10123_01-_5_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/199/wlikzr9bgdhjo1xdb40nprmg5py6twg5/1_10123_01-_6-_.jpg</picture>
+<rating>5</rating>
+<reviews_count>4</reviews_count>
+<video main="true"> https://marioberlucci.ru/upload/iblock/752/sxi4x15c663oevz9n8r3ui5map7l9vqt/1_10123_01-_8_.mp4</video>
+<cashback>909</cashback>
+      </offer>
+      <offer id="274059"  available="true" group_id="1-10123"  sizeGridImage= "https://marioberlucci.ru/assets/images/foot-length.png">
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_10123_01//</url>
+<price>12990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-10123-01</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">39</param>
+<param name="Цвет" hex="#0000FF">Черный</param>
+<param name="Сезон">Лето"</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#0000FF">Черный</param>
+<param name="Цвет подкладки" hex="#0000FF">Черный</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы в см">100% 0.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип мыса">открытый</param>
+<param name="Тип каблука">стандартный</param>
+<param name="Высота каблука в см">1.5</param>
+<param name="Тим застежки">пряжка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Рост модели">178</param>
+<param name="Размер обуви на фото">38</param>
+<description>Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и средним и высоким подъёмом стопы. Стильные сандалии из новой коллекции выполнены из натуральной гладкой кожи и представлены в классической расцветке. Трендовый силуэт дополнен металлической фурнитурой и лаконичной подошвой из экологичного полимера. Анатомическая кожаная стелька подарит высокий уровень комфорта. Современная модель удачно впишется в летний образ на каждый день.</description>
+<rec title="Возможно, вам понравится" >226050,216911,227610,274071 </rec>
+<picture>https://marioberlucci.ru/upload/iblock/147/i0gynf0eul3x1jx5ebwsfgbvpszelms5/1_10123_01_7_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/b92/va4kjbijmhxo2al4f6p689zzdlhkwgav/1_10123_01_1_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/ef7/mhz9c4nayc4ltld34100p2d9u8rh0091/1_10123_01-_2_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/bae/a944kz3ei8e56zn3h9vdclbssdyykphs/1_10123_01-_3_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/650/0oatcegr20iu3eeknf1bjdn77h46k6hb/1_10123_01-_4_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/6ba/dtakc03cs4ase6mz4l3sj76qpsd0xlw2/1_10123_01-_5_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/199/wlikzr9bgdhjo1xdb40nprmg5py6twg5/1_10123_01-_6-_.jpg</picture>
+<rating>5</rating>
+<reviews_count>4</reviews_count>
+<video main="true"> https://marioberlucci.ru/upload/iblock/752/sxi4x15c663oevz9n8r3ui5map7l9vqt/1_10123_01-_8_.mp4</video>
+<cashback>909</cashback>
+      </offer>
+      <offer id="274059"  available="true" group_id="1-10123"  sizeGridImage= "https://marioberlucci.ru/assets/images/foot-length.png">
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_10123_01//</url>
+<price>12990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-10123-01</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">40</param>
+<param name="Цвет" hex="#0000FF">Черный</param>
+<param name="Сезон">Лето"</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#0000FF">Черный</param>
+<param name="Цвет подкладки" hex="#0000FF">Черный</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы в см">100% 0.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип мыса">открытый</param>
+<param name="Тип каблука">стандартный</param>
+<param name="Высота каблука в см">1.5</param>
+<param name="Тим застежки">пряжка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Рост модели">178</param>
+<param name="Размер обуви на фото">38</param>
+<description>Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и средним и высоким подъёмом стопы. Стильные сандалии из новой коллекции выполнены из натуральной гладкой кожи и представлены в классической расцветке. Трендовый силуэт дополнен металлической фурнитурой и лаконичной подошвой из экологичного полимера. Анатомическая кожаная стелька подарит высокий уровень комфорта. Современная модель удачно впишется в летний образ на каждый день.</description>
+<rec title="Возможно, вам понравится" >226050,216911,227610,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/147/i0gynf0eul3x1jx5ebwsfgbvpszelms5/1_10123_01_7_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/b92/va4kjbijmhxo2al4f6p689zzdlhkwgav/1_10123_01_1_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/ef7/mhz9c4nayc4ltld34100p2d9u8rh0091/1_10123_01-_2_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/bae/a944kz3ei8e56zn3h9vdclbssdyykphs/1_10123_01-_3_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/650/0oatcegr20iu3eeknf1bjdn77h46k6hb/1_10123_01-_4_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/6ba/dtakc03cs4ase6mz4l3sj76qpsd0xlw2/1_10123_01-_5_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/199/wlikzr9bgdhjo1xdb40nprmg5py6twg5/1_10123_01-_6-_.jpg</picture>
+<rating>5</rating>
+<reviews_count>4</reviews_count>
+<video main="true"> https://marioberlucci.ru/upload/iblock/752/sxi4x15c663oevz9n8r3ui5map7l9vqt/1_10123_01-_8_.mp4</video>
+<cashback>909</cashback>
+      </offer>
+      <offer id="274071"  available="true" group_id="1-10123"  sizeGridImage= "https://marioberlucci.ru/assets/images/foot-length.png">
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_10123_04//</url>
+<price>12990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-10123-04</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">36</param>
+<param name="Цвет">Коричневый</param>
+<param name="Сезон">Лето"</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" >коричневый</param>
+<param name="Цвет подкладки">коричневый</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы в см">100% 0.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип мыса">открытый</param>
+<param name="Тип каблука">стандартный</param>
+<param name="Высота каблука в см">1.5</param>
+<param name="Тим застежки">пряжка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Рост модели">178</param>
+<param name="Размер обуви на фото">38</param>
+<description>Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и средним и высоким подъёмом стопы. Стильные сандалии из новой коллекции выполнены из натуральной гладкой кожи и представлены в классической расцветке. Трендовый силуэт дополнен металлической фурнитурой и лаконичной подошвой из экологичного полимера. Анатомическая кожаная стелька подарит высокий уровень комфорта. Современная модель удачно впишется в летний образ на каждый день.</description>
+<rec title="Возможно, вам понравится" >226050,216911,227610,274059 </rec>
+<picture>https://marioberlucci.ru/upload/iblock/147/i0gynf0eul3x1jx5ebwsfgbvpszelms5/1_10123_01_7_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/b92/va4kjbijmhxo2al4f6p689zzdlhkwgav/1_10123_01_1_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/ef7/mhz9c4nayc4ltld34100p2d9u8rh0091/1_10123_01-_2_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/bae/a944kz3ei8e56zn3h9vdclbssdyykphs/1_10123_01-_3_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/650/0oatcegr20iu3eeknf1bjdn77h46k6hb/1_10123_01-_4_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/6ba/dtakc03cs4ase6mz4l3sj76qpsd0xlw2/1_10123_01-_5_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/199/wlikzr9bgdhjo1xdb40nprmg5py6twg5/1_10123_01-_6-_.jpg</picture>
+<rating>5</rating>
+<reviews_count>4</reviews_count>
+<video main="true"> https://marioberlucci.ru/upload/iblock/752/sxi4x15c663oevz9n8r3ui5map7l9vqt/1_10123_01-_8_.mp4</video>
+<cashback>909</cashback>
+      </offer>
+      <offer id="274071"  available="true" group_id="1-10123"  sizeGridImage= "https://marioberlucci.ru/assets/images/foot-length.png">
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_10123_04//</url>
+<price>12990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-10123-04</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">37</param>
+<param name="Цвет">Коричневый</param>
+<param name="Сезон">Лето"</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" >коричневый</param>
+<param name="Цвет подкладки">коричневый</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы в см">100% 0.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип мыса">открытый</param>
+<param name="Тип каблука">стандартный</param>
+<param name="Высота каблука в см">1.5</param>
+<param name="Тим застежки">пряжка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Рост модели">178</param>
+<param name="Размер обуви на фото">38</param>
+<description>Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и средним и высоким подъёмом стопы. Стильные сандалии из новой коллекции выполнены из натуральной гладкой кожи и представлены в классической расцветке. Трендовый силуэт дополнен металлической фурнитурой и лаконичной подошвой из экологичного полимера. Анатомическая кожаная стелька подарит высокий уровень комфорта. Современная модель удачно впишется в летний образ на каждый день.</description>
+<rec title="Возможно, вам понравится" >226050,216911,227610,274059 </rec>
+<picture>https://marioberlucci.ru/upload/iblock/147/i0gynf0eul3x1jx5ebwsfgbvpszelms5/1_10123_01_7_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/b92/va4kjbijmhxo2al4f6p689zzdlhkwgav/1_10123_01_1_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/ef7/mhz9c4nayc4ltld34100p2d9u8rh0091/1_10123_01-_2_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/bae/a944kz3ei8e56zn3h9vdclbssdyykphs/1_10123_01-_3_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/650/0oatcegr20iu3eeknf1bjdn77h46k6hb/1_10123_01-_4_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/6ba/dtakc03cs4ase6mz4l3sj76qpsd0xlw2/1_10123_01-_5_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/199/wlikzr9bgdhjo1xdb40nprmg5py6twg5/1_10123_01-_6-_.jpg</picture>
+<rating>5</rating>
+<reviews_count>4</reviews_count>
+<video main="true"> https://marioberlucci.ru/upload/iblock/752/sxi4x15c663oevz9n8r3ui5map7l9vqt/1_10123_01-_8_.mp4</video>
+<cashback>909</cashback>
+      </offer>
+      <offer id="274071"  available="true" group_id="1-10123"  sizeGridImage= "https://marioberlucci.ru/assets/images/foot-length.png">
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_10123_04//</url>
+<price>12990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-10123-04</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">38</param>
+<param name="Цвет">Коричневый</param>
+<param name="Сезон">Лето"</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" >коричневый</param>
+<param name="Цвет подкладки">коричневый</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы в см">100% 0.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип мыса">открытый</param>
+<param name="Тип каблука">стандартный</param>
+<param name="Высота каблука в см">1.5</param>
+<param name="Тим застежки">пряжка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Рост модели">178</param>
+<param name="Размер обуви на фото">38</param>
+<description>Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и средним и высоким подъёмом стопы. Стильные сандалии из новой коллекции выполнены из натуральной гладкой кожи и представлены в классической расцветке. Трендовый силуэт дополнен металлической фурнитурой и лаконичной подошвой из экологичного полимера. Анатомическая кожаная стелька подарит высокий уровень комфорта. Современная модель удачно впишется в летний образ на каждый день.</description>
+<rec title="Возможно, вам понравится" >226050,216911,227610,274059 </rec>
+<picture>https://marioberlucci.ru/upload/iblock/147/i0gynf0eul3x1jx5ebwsfgbvpszelms5/1_10123_01_7_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/b92/va4kjbijmhxo2al4f6p689zzdlhkwgav/1_10123_01_1_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/ef7/mhz9c4nayc4ltld34100p2d9u8rh0091/1_10123_01-_2_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/bae/a944kz3ei8e56zn3h9vdclbssdyykphs/1_10123_01-_3_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/650/0oatcegr20iu3eeknf1bjdn77h46k6hb/1_10123_01-_4_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/6ba/dtakc03cs4ase6mz4l3sj76qpsd0xlw2/1_10123_01-_5_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/199/wlikzr9bgdhjo1xdb40nprmg5py6twg5/1_10123_01-_6-_.jpg</picture>
+<rating>5</rating>
+<reviews_count>4</reviews_count>
+<video main="true"> https://marioberlucci.ru/upload/iblock/752/sxi4x15c663oevz9n8r3ui5map7l9vqt/1_10123_01-_8_.mp4</video>
+<cashback>909</cashback>
+      </offer>
+      <offer id="274071"  available="true" group_id="1-10123"  sizeGridImage= "https://marioberlucci.ru/assets/images/foot-length.png">
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_10123_04//</url>
+<price>12990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-10123-04</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">39</param>
+<param name="Цвет">Коричневый</param>
+<param name="Сезон">Лето"</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" >коричневый</param>
+<param name="Цвет подкладки">коричневый</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы в см">100% 0.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип мыса">открытый</param>
+<param name="Тип каблука">стандартный</param>
+<param name="Высота каблука в см">1.5</param>
+<param name="Тим застежки">пряжка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Рост модели">178</param>
+<param name="Размер обуви на фото">38</param>
+<description>Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и средним и высоким подъёмом стопы. Стильные сандалии из новой коллекции выполнены из натуральной гладкой кожи и представлены в классической расцветке. Трендовый силуэт дополнен металлической фурнитурой и лаконичной подошвой из экологичного полимера. Анатомическая кожаная стелька подарит высокий уровень комфорта. Современная модель удачно впишется в летний образ на каждый день.</description>
+<rec title="Возможно, вам понравится" >226050,216911,227610,274059 </rec>
+<picture>https://marioberlucci.ru/upload/iblock/147/i0gynf0eul3x1jx5ebwsfgbvpszelms5/1_10123_01_7_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/b92/va4kjbijmhxo2al4f6p689zzdlhkwgav/1_10123_01_1_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/ef7/mhz9c4nayc4ltld34100p2d9u8rh0091/1_10123_01-_2_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/bae/a944kz3ei8e56zn3h9vdclbssdyykphs/1_10123_01-_3_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/650/0oatcegr20iu3eeknf1bjdn77h46k6hb/1_10123_01-_4_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/6ba/dtakc03cs4ase6mz4l3sj76qpsd0xlw2/1_10123_01-_5_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/199/wlikzr9bgdhjo1xdb40nprmg5py6twg5/1_10123_01-_6-_.jpg</picture>
+<rating>5</rating>
+<reviews_count>4</reviews_count>
+<video main="true"> https://marioberlucci.ru/upload/iblock/752/sxi4x15c663oevz9n8r3ui5map7l9vqt/1_10123_01-_8_.mp4</video>
+<cashback>909</cashback>
+      </offer>
+      <offer id="274071"  available="true" group_id="1-10123"  sizeGridImage= "https://marioberlucci.ru/assets/images/foot-length.png">
+<name>Сандали из натуральной кожи</name>
+<url>hhttps://marioberlucci.ru/product/mario_berlucci_1_10123_04//</url>
+<price>12990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-10123-04</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">40</param>
+<param name="Цвет">Коричневый</param>
+<param name="Сезон">Лето"</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" >коричневый</param>
+<param name="Цвет подкладки">коричневый</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы в см">100% 0.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип мыса">открытый</param>
+<param name="Тип каблука">стандартный</param>
+<param name="Высота каблука в см">1.5</param>
+<param name="Тим застежки">пряжка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Рост модели">178</param>
+<param name="Размер обуви на фото">38</param>
+<description>Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и средним и высоким подъёмом стопы. Стильные сандалии из новой коллекции выполнены из натуральной гладкой кожи и представлены в классической расцветке. Трендовый силуэт дополнен металлической фурнитурой и лаконичной подошвой из экологичного полимера. Анатомическая кожаная стелька подарит высокий уровень комфорта. Современная модель удачно впишется в летний образ на каждый день.</description>
+<rec title="Возможно, вам понравится" >226050,216911,227610,274059  </rec>
+<picture>https://marioberlucci.ru/upload/iblock/147/i0gynf0eul3x1jx5ebwsfgbvpszelms5/1_10123_01_7_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/b92/va4kjbijmhxo2al4f6p689zzdlhkwgav/1_10123_01_1_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/ef7/mhz9c4nayc4ltld34100p2d9u8rh0091/1_10123_01-_2_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/bae/a944kz3ei8e56zn3h9vdclbssdyykphs/1_10123_01-_3_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/650/0oatcegr20iu3eeknf1bjdn77h46k6hb/1_10123_01-_4_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/6ba/dtakc03cs4ase6mz4l3sj76qpsd0xlw2/1_10123_01-_5_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/199/wlikzr9bgdhjo1xdb40nprmg5py6twg5/1_10123_01-_6-_.jpg</picture>
+<rating>5</rating>
+<reviews_count>4</reviews_count>
+<video main="true"> https://marioberlucci.ru/upload/iblock/752/sxi4x15c663oevz9n8r3ui5map7l9vqt/1_10123_01-_8_.mp4</video>
+<cashback>909</cashback>
+      </offer>
+      <offer id="226050"  available="true" group_id="1-8076"
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8076_22//</url>
+<price>9290</price>
+<oldprice>9900</oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8076-22</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">36</param>
+<param name="Цвет" hex="#f2e8c9">Бежевый</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Материал стельки">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#f2e8c9">Бежевый</param>
+<param name="Цвет подкладки" hex="#f2e8c9">Бежевый</param>
+<param name="Высота модели, в см"> 10</param>
+<param name="Тип каблука">платформа</param>
+<param name="Высота каблука в см">4</param>
+<param name="Тип застежки">липучка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Метод крепления фурнитуры" >прошивной</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и любым подъёмом стопы. Трендовые сандалии из новой коллекции выполнены из натуральной кожи и декорированы строчкой. Удобные застёжки в виде липучки комфортно фиксируют стопу и позволяют регулировать полноту. Анатомическая стелька из кожи обеспечивает комфорт на весь день. Однотонный дизайн позволяет подбирать как яркие образы, так и наряды из базового гардероба. </description>
+<rec title="Возможно, вам понравится">216911,227610,274059,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/fb4/oc9i1n2qn22dk7r5abbumml0a6d10kuv/1_8076_22_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d7f/b9xuctq7ui3odrto2znnp9vup7i82qao/1_8076_22_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/41f/ps06pz0gldstkhsw1alkq3rkpa1cgnbi/1_8076_22_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d75/fbr8m06eg2f1iwum8lr2i898ihrtvuk5/1_8076_22_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/272/kxqpkh5m13fkggljdpq0cax3di30ljen/1_8076_22_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d4d/nr16oaundimuqr51z2fib1yvcp6c08vk/1_8076_22_2.jpg</picture>
+<rating>5</rating>
+<reviews_count>6</reviews_count>
+<video main="true">https://marioberlucci.ru/upload/iblock/821/j3iqfzrmcdot14f3hr9aih6p6lbxhmla/1_8076_22_8.mp4</video>
+<cashback>650</cashback>
+      </offer>
+      <offer id="226050"  available="true" group_id="1-8076"
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8076_22//</url>
+<price>9290</price>
+<oldprice>9900</oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8076-22</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">37</param>
+<param name="Цвет" hex="#f2e8c9">Бежевый</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Материал стельки">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#f2e8c9">Бежевый</param>
+<param name="Цвет подкладки" hex="#f2e8c9">Бежевый</param>
+<param name="Высота модели, в см"> 10</param>
+<param name="Тип каблука">платформа</param>
+<param name="Высота каблука в см">4</param>
+<param name="Тип застежки">липучка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Метод крепления фурнитуры" >прошивной</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и любым подъёмом стопы. Трендовые сандалии из новой коллекции выполнены из натуральной кожи и декорированы строчкой. Удобные застёжки в виде липучки комфортно фиксируют стопу и позволяют регулировать полноту. Анатомическая стелька из кожи обеспечивает комфорт на весь день. Однотонный дизайн позволяет подбирать как яркие образы, так и наряды из базового гардероба. </description>
+<rec title="Возможно, вам понравится">216911,227610,274059,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/fb4/oc9i1n2qn22dk7r5abbumml0a6d10kuv/1_8076_22_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d7f/b9xuctq7ui3odrto2znnp9vup7i82qao/1_8076_22_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/41f/ps06pz0gldstkhsw1alkq3rkpa1cgnbi/1_8076_22_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d75/fbr8m06eg2f1iwum8lr2i898ihrtvuk5/1_8076_22_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/272/kxqpkh5m13fkggljdpq0cax3di30ljen/1_8076_22_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d4d/nr16oaundimuqr51z2fib1yvcp6c08vk/1_8076_22_2.jpg</picture>
+<rating>5</rating>
+<reviews_count>6</reviews_count>
+<video main="true">https://marioberlucci.ru/upload/iblock/821/j3iqfzrmcdot14f3hr9aih6p6lbxhmla/1_8076_22_8.mp4</video>
+<cashback>650</cashback>
+      </offer>
+      <offer id="226050"  available="false" group_id="1-8076"
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8076_22//</url>
+<price>9290</price>
+<oldprice>9900</oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8076-22</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">38</param>
+<param name="Цвет" hex="#f2e8c9">Бежевый</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Материал стельки">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#f2e8c9">Бежевый</param>
+<param name="Цвет подкладки" hex="#f2e8c9">Бежевый</param>
+<param name="Высота модели, в см"> 10</param>
+<param name="Тип каблука">платформа</param>
+<param name="Высота каблука в см">4</param>
+<param name="Тип застежки">липучка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Метод крепления фурнитуры" >прошивной</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и любым подъёмом стопы. Трендовые сандалии из новой коллекции выполнены из натуральной кожи и декорированы строчкой. Удобные застёжки в виде липучки комфортно фиксируют стопу и позволяют регулировать полноту. Анатомическая стелька из кожи обеспечивает комфорт на весь день. Однотонный дизайн позволяет подбирать как яркие образы, так и наряды из базового гардероба. </description>
+<rec title="Возможно, вам понравится">216911,227610,274059,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/fb4/oc9i1n2qn22dk7r5abbumml0a6d10kuv/1_8076_22_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d7f/b9xuctq7ui3odrto2znnp9vup7i82qao/1_8076_22_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/41f/ps06pz0gldstkhsw1alkq3rkpa1cgnbi/1_8076_22_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d75/fbr8m06eg2f1iwum8lr2i898ihrtvuk5/1_8076_22_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/272/kxqpkh5m13fkggljdpq0cax3di30ljen/1_8076_22_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d4d/nr16oaundimuqr51z2fib1yvcp6c08vk/1_8076_22_2.jpg</picture>
+<rating>5</rating>
+<reviews_count>6</reviews_count>
+<video main="true">https://marioberlucci.ru/upload/iblock/821/j3iqfzrmcdot14f3hr9aih6p6lbxhmla/1_8076_22_8.mp4</video>
+<cashback>650</cashback>
+      </offer>
+      <offer id="226050"  available="false" group_id="1-8076"
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8076_22//</url>
+<price>9290</price>
+<oldprice>9900</oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8076-22</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">39</param>
+<param name="Цвет" hex="#f2e8c9">Бежевый</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Материал стельки">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#f2e8c9">Бежевый</param>
+<param name="Цвет подкладки" hex="#f2e8c9">Бежевый</param>
+<param name="Высота модели, в см"> 10</param>
+<param name="Тип каблука">платформа</param>
+<param name="Высота каблука в см">4</param>
+<param name="Тип застежки">липучка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Метод крепления фурнитуры" >прошивной</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и любым подъёмом стопы. Трендовые сандалии из новой коллекции выполнены из натуральной кожи и декорированы строчкой. Удобные застёжки в виде липучки комфортно фиксируют стопу и позволяют регулировать полноту. Анатомическая стелька из кожи обеспечивает комфорт на весь день. Однотонный дизайн позволяет подбирать как яркие образы, так и наряды из базового гардероба. </description>
+<rec title="Возможно, вам понравится">216911,227610,274059,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/fb4/oc9i1n2qn22dk7r5abbumml0a6d10kuv/1_8076_22_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d7f/b9xuctq7ui3odrto2znnp9vup7i82qao/1_8076_22_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/41f/ps06pz0gldstkhsw1alkq3rkpa1cgnbi/1_8076_22_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d75/fbr8m06eg2f1iwum8lr2i898ihrtvuk5/1_8076_22_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/272/kxqpkh5m13fkggljdpq0cax3di30ljen/1_8076_22_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d4d/nr16oaundimuqr51z2fib1yvcp6c08vk/1_8076_22_2.jpg</picture>
+<rating>5</rating>
+<reviews_count>6</reviews_count>
+<video main="true">https://marioberlucci.ru/upload/iblock/821/j3iqfzrmcdot14f3hr9aih6p6lbxhmla/1_8076_22_8.mp4</video>
+<cashback>650</cashback>
+      </offer>
+      <offer id="226050"  available="false" group_id="1-8076"
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8076_22//</url>
+<price>9290</price>
+<oldprice>9900</oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8076-22</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">40</param>
+<param name="Цвет" hex="#f2e8c9">Бежевый</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Материал стельки">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#f2e8c9">Бежевый</param>
+<param name="Цвет подкладки" hex="#f2e8c9">Бежевый</param>
+<param name="Высота модели, в см"> 10</param>
+<param name="Тип каблука">платформа</param>
+<param name="Высота каблука в см">4</param>
+<param name="Тип застежки">липучка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Метод крепления фурнитуры" >прошивной</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и любым подъёмом стопы. Трендовые сандалии из новой коллекции выполнены из натуральной кожи и декорированы строчкой. Удобные застёжки в виде липучки комфортно фиксируют стопу и позволяют регулировать полноту. Анатомическая стелька из кожи обеспечивает комфорт на весь день. Однотонный дизайн позволяет подбирать как яркие образы, так и наряды из базового гардероба. </description>
+<rec title="Возможно, вам понравится">216911,227610,274059,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/fb4/oc9i1n2qn22dk7r5abbumml0a6d10kuv/1_8076_22_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d7f/b9xuctq7ui3odrto2znnp9vup7i82qao/1_8076_22_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/41f/ps06pz0gldstkhsw1alkq3rkpa1cgnbi/1_8076_22_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d75/fbr8m06eg2f1iwum8lr2i898ihrtvuk5/1_8076_22_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/272/kxqpkh5m13fkggljdpq0cax3di30ljen/1_8076_22_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d4d/nr16oaundimuqr51z2fib1yvcp6c08vk/1_8076_22_2.jpg</picture>
+<rating>5</rating>
+<reviews_count>6</reviews_count>
+<video main="true">https://marioberlucci.ru/upload/iblock/821/j3iqfzrmcdot14f3hr9aih6p6lbxhmla/1_8076_22_8.mp4</video>
+<cashback>650</cashback>
+      </offer>
+      <offer id="226044"  available="true" group_id="1-8076"
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8076_01//</url>
+<price>9290</price>
+<oldprice>9900</oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8076-01</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">36</param>
+<param name="Цвет" hex="#f2e8c9">Бежевый</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Материал стельки">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#f2e8c9">Бежевый</param>
+<param name="Цвет подкладки" hex="#f2e8c9">Бежевый</param>
+<param name="Высота модели, в см"> 10</param>
+<param name="Тип каблука">платформа</param>
+<param name="Высота каблука в см">4</param>
+<param name="Тип застежки">липучка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Метод крепления фурнитуры" >прошивной</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и любым подъёмом стопы. Трендовые сандалии из новой коллекции выполнены из натуральной кожи и декорированы строчкой. Удобные застёжки в виде липучки комфортно фиксируют стопу и позволяют регулировать полноту. Анатомическая стелька из кожи обеспечивает комфорт на весь день. Однотонный дизайн позволяет подбирать как яркие образы, так и наряды из базового гардероба. </description>
+<rec title="Возможно, вам понравится">216911,227610,274059,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/fb4/oc9i1n2qn22dk7r5abbumml0a6d10kuv/1_8076_22_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d7f/b9xuctq7ui3odrto2znnp9vup7i82qao/1_8076_22_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/41f/ps06pz0gldstkhsw1alkq3rkpa1cgnbi/1_8076_22_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d75/fbr8m06eg2f1iwum8lr2i898ihrtvuk5/1_8076_22_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/272/kxqpkh5m13fkggljdpq0cax3di30ljen/1_8076_22_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d4d/nr16oaundimuqr51z2fib1yvcp6c08vk/1_8076_22_2.jpg</picture>
+<rating>5</rating>
+<reviews_count>6</reviews_count>
+<video main="true">https://marioberlucci.ru/upload/iblock/821/j3iqfzrmcdot14f3hr9aih6p6lbxhmla/1_8076_22_8.mp4</video>
+<cashback>650</cashback>
+      </offer>
+      <offer id="226044"  available="true" group_id="1-8076"
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8076_01//</url>
+<price>9290</price>
+<oldprice>9900</oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8076-01</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">37</param>
+<param name="Цвет" hex="#f2e8c9">Бежевый</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Материал стельки">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#f2e8c9">Бежевый</param>
+<param name="Цвет подкладки" hex="#f2e8c9">Бежевый</param>
+<param name="Высота модели, в см"> 10</param>
+<param name="Тип каблука">платформа</param>
+<param name="Высота каблука в см">4</param>
+<param name="Тип застежки">липучка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Метод крепления фурнитуры" >прошивной</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и любым подъёмом стопы. Трендовые сандалии из новой коллекции выполнены из натуральной кожи и декорированы строчкой. Удобные застёжки в виде липучки комфортно фиксируют стопу и позволяют регулировать полноту. Анатомическая стелька из кожи обеспечивает комфорт на весь день. Однотонный дизайн позволяет подбирать как яркие образы, так и наряды из базового гардероба. </description>
+<rec title="Возможно, вам понравится">216911,227610,274059,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/fb4/oc9i1n2qn22dk7r5abbumml0a6d10kuv/1_8076_22_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d7f/b9xuctq7ui3odrto2znnp9vup7i82qao/1_8076_22_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/41f/ps06pz0gldstkhsw1alkq3rkpa1cgnbi/1_8076_22_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d75/fbr8m06eg2f1iwum8lr2i898ihrtvuk5/1_8076_22_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/272/kxqpkh5m13fkggljdpq0cax3di30ljen/1_8076_22_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d4d/nr16oaundimuqr51z2fib1yvcp6c08vk/1_8076_22_2.jpg</picture>
+<rating>5</rating>
+<reviews_count>6</reviews_count>
+<video main="true">https://marioberlucci.ru/upload/iblock/821/j3iqfzrmcdot14f3hr9aih6p6lbxhmla/1_8076_22_8.mp4</video>
+<cashback>650</cashback>
+      </offer>
+      <offer id="226044"  available="false" group_id="1-8076"
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8076_01//</url>
+<price>9290</price>
+<oldprice>9900</oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8076-01</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">38</param>
+<param name="Цвет" hex="#f2e8c9">Бежевый</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Материал стельки">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#f2e8c9">Бежевый</param>
+<param name="Цвет подкладки" hex="#f2e8c9">Бежевый</param>
+<param name="Высота модели, в см"> 10</param>
+<param name="Тип каблука">платформа</param>
+<param name="Высота каблука в см">4</param>
+<param name="Тип застежки">липучка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Метод крепления фурнитуры" >прошивной</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и любым подъёмом стопы. Трендовые сандалии из новой коллекции выполнены из натуральной кожи и декорированы строчкой. Удобные застёжки в виде липучки комфортно фиксируют стопу и позволяют регулировать полноту. Анатомическая стелька из кожи обеспечивает комфорт на весь день. Однотонный дизайн позволяет подбирать как яркие образы, так и наряды из базового гардероба. </description>
+<rec title="Возможно, вам понравится">216911,227610,274059,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/fb4/oc9i1n2qn22dk7r5abbumml0a6d10kuv/1_8076_22_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d7f/b9xuctq7ui3odrto2znnp9vup7i82qao/1_8076_22_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/41f/ps06pz0gldstkhsw1alkq3rkpa1cgnbi/1_8076_22_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d75/fbr8m06eg2f1iwum8lr2i898ihrtvuk5/1_8076_22_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/272/kxqpkh5m13fkggljdpq0cax3di30ljen/1_8076_22_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d4d/nr16oaundimuqr51z2fib1yvcp6c08vk/1_8076_22_2.jpg</picture>
+<rating>5</rating>
+<reviews_count>6</reviews_count>
+<video main="true">https://marioberlucci.ru/upload/iblock/821/j3iqfzrmcdot14f3hr9aih6p6lbxhmla/1_8076_22_8.mp4</video>
+<cashback>650</cashback>
+      </offer>
+      <offer id="226044"  available="false" group_id="1-8076"
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8076_01//</url>
+<price>9290</price>
+<oldprice>9900</oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8076-01</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">39</param>
+<param name="Цвет" hex="#f2e8c9">Бежевый</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Материал стельки">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#f2e8c9">Бежевый</param>
+<param name="Цвет подкладки" hex="#f2e8c9">Бежевый</param>
+<param name="Высота модели, в см"> 10</param>
+<param name="Тип каблука">платформа</param>
+<param name="Высота каблука в см">4</param>
+<param name="Тип застежки">липучка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Метод крепления фурнитуры" >прошивной</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и любым подъёмом стопы. Трендовые сандалии из новой коллекции выполнены из натуральной кожи и декорированы строчкой. Удобные застёжки в виде липучки комфортно фиксируют стопу и позволяют регулировать полноту. Анатомическая стелька из кожи обеспечивает комфорт на весь день. Однотонный дизайн позволяет подбирать как яркие образы, так и наряды из базового гардероба. </description>
+<rec title="Возможно, вам понравится">216911,227610,274059,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/fb4/oc9i1n2qn22dk7r5abbumml0a6d10kuv/1_8076_22_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d7f/b9xuctq7ui3odrto2znnp9vup7i82qao/1_8076_22_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/41f/ps06pz0gldstkhsw1alkq3rkpa1cgnbi/1_8076_22_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d75/fbr8m06eg2f1iwum8lr2i898ihrtvuk5/1_8076_22_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/272/kxqpkh5m13fkggljdpq0cax3di30ljen/1_8076_22_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d4d/nr16oaundimuqr51z2fib1yvcp6c08vk/1_8076_22_2.jpg</picture>
+<rating>5</rating>
+<reviews_count>6</reviews_count>
+<video main="true">https://marioberlucci.ru/upload/iblock/821/j3iqfzrmcdot14f3hr9aih6p6lbxhmla/1_8076_22_8.mp4</video>
+<cashback>650</cashback>
+      </offer>
+       <offer id="226044"  available="false" group_id="1-8076"
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8076_01//</url>
+<price>9290</price>
+<oldprice>9900</oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8076-01</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">40</param>
+<param name="Цвет" hex="#f2e8c9">Бежевый</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Материал стельки">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#f2e8c9">Бежевый</param>
+<param name="Цвет подкладки" hex="#f2e8c9">Бежевый</param>
+<param name="Высота модели, в см"> 10</param>
+<param name="Тип каблука">платформа</param>
+<param name="Высота каблука в см">4</param>
+<param name="Тип застежки">липучка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Метод крепления фурнитуры" >прошивной</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и любым подъёмом стопы. Трендовые сандалии из новой коллекции выполнены из натуральной кожи и декорированы строчкой. Удобные застёжки в виде липучки комфортно фиксируют стопу и позволяют регулировать полноту. Анатомическая стелька из кожи обеспечивает комфорт на весь день. Однотонный дизайн позволяет подбирать как яркие образы, так и наряды из базового гардероба. </description>
+<rec title="Возможно, вам понравится">216911,227610,274059,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/fb4/oc9i1n2qn22dk7r5abbumml0a6d10kuv/1_8076_22_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d7f/b9xuctq7ui3odrto2znnp9vup7i82qao/1_8076_22_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/41f/ps06pz0gldstkhsw1alkq3rkpa1cgnbi/1_8076_22_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d75/fbr8m06eg2f1iwum8lr2i898ihrtvuk5/1_8076_22_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/272/kxqpkh5m13fkggljdpq0cax3di30ljen/1_8076_22_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d4d/nr16oaundimuqr51z2fib1yvcp6c08vk/1_8076_22_2.jpg</picture>
+<rating>5</rating>
+<reviews_count>6</reviews_count>
+<video main="true">https://marioberlucci.ru/upload/iblock/821/j3iqfzrmcdot14f3hr9aih6p6lbxhmla/1_8076_22_8.mp4</video>
+<cashback>650</cashback>
+      </offer>
+      <offer id="216911"  available="false" 
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8004//</url>
+<price>9890</price>
+<oldprice>17990</oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8004</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">36</param>
+<param name="Цвет" hex="#0000FF">черный</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#0000FF">Черный</param>
+<param name="Цвет подкладки" hex="#0000FF»>Черный</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота модели, в см"> 13</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы, в см">3.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип мыса">открытый</param>
+<param name="Тип каблука">широкий</param>
+<param name="Высота каблука, в см">7</param>
+<param name="Тип застежки">пряжка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и средним подъёмом стопы. Однотонные босоножки из новой коллекции выполнены из натуральной мягкой кожи и дополнены эффектной платформой на каблуке. Пряжка позволяет регулировать полноту, специальная анатомическая стелька из кожи обеспечивает комфорт на весь день. Современная модель превосходно впишется в модный образ и останется актуальной не один сезон. </description>
+<rec title="Возможно, вам понравится" >280130,227610,274059,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/3d5/cmpthvu5hx00144mpwiyyfy3ddd0gg94/1_8004_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/760/fbsk9sj19vmofj1nsk9gl51ejgg4zoco/1_8004_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d9e/lhjqnv2e80dqxkymefq9d2k7c1lgvypq/1_8004_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/7e1/topioz390abbo80db2tivg1f3vt759j5/1_8004_2.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/f09/o1qzdbjd1mn5b54ofvmav995wthpbqta/1_8004_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/31d/bea9k71q70j8ruw4gzjn47la7m3wadba/1_8004_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/0fe/vmy4tj5jp46cv5dqnyg2ke721kqk7mtl/1_8004_5.jpg</picture>
+<rating>5</rating>
+<reviews_count>5</reviews_count>
+<video main="true"> https://marioberlucci.ru/upload/iblock/f19/3g3nchyu3iqhjgfk5kj1ybn6yjmyjy9v/1_8004_8.mp4</video>
+<cashback>692</cashback>
+      </offer>
+      <offer id="216911"  available="false" 
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8004//</url>
+<price>9890</price>
+<oldprice>17990</oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8004</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">37</param>
+<param name="Цвет" hex="#0000FF">черный</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#0000FF">Черный</param>
+<param name="Цвет подкладки" hex="#0000FF»>Черный</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота модели, в см"> 13</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы, в см">3.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип мыса">открытый</param>
+<param name="Тип каблука">широкий</param>
+<param name="Высота каблука, в см">7</param>
+<param name="Тип застежки">пряжка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и средним подъёмом стопы. Однотонные босоножки из новой коллекции выполнены из натуральной мягкой кожи и дополнены эффектной платформой на каблуке. Пряжка позволяет регулировать полноту, специальная анатомическая стелька из кожи обеспечивает комфорт на весь день. Современная модель превосходно впишется в модный образ и останется актуальной не один сезон. </description>
+<rec title="Возможно, вам понравится" >280130,227610,274059,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/3d5/cmpthvu5hx00144mpwiyyfy3ddd0gg94/1_8004_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/760/fbsk9sj19vmofj1nsk9gl51ejgg4zoco/1_8004_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d9e/lhjqnv2e80dqxkymefq9d2k7c1lgvypq/1_8004_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/7e1/topioz390abbo80db2tivg1f3vt759j5/1_8004_2.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/f09/o1qzdbjd1mn5b54ofvmav995wthpbqta/1_8004_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/31d/bea9k71q70j8ruw4gzjn47la7m3wadba/1_8004_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/0fe/vmy4tj5jp46cv5dqnyg2ke721kqk7mtl/1_8004_5.jpg</picture>
+<rating>5</rating>
+<reviews_count>5</reviews_count>
+<video main="true"> https://marioberlucci.ru/upload/iblock/f19/3g3nchyu3iqhjgfk5kj1ybn6yjmyjy9v/1_8004_8.mp4</video>
+<cashback>692</cashback>
+      </offer>
+      <offer id="216911"  available="false" 
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8004//</url>
+<price>9890</price>
+<oldprice>17990</oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8004</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">38</param>
+<param name="Цвет" hex="#0000FF">черный</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#0000FF">Черный</param>
+<param name="Цвет подкладки" hex="#0000FF»>Черный</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота модели, в см"> 13</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы, в см">3.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип мыса">открытый</param>
+<param name="Тип каблука">широкий</param>
+<param name="Высота каблука, в см">7</param>
+<param name="Тип застежки">пряжка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и средним подъёмом стопы. Однотонные босоножки из новой коллекции выполнены из натуральной мягкой кожи и дополнены эффектной платформой на каблуке. Пряжка позволяет регулировать полноту, специальная анатомическая стелька из кожи обеспечивает комфорт на весь день. Современная модель превосходно впишется в модный образ и останется актуальной не один сезон. </description>
+<rec title="Возможно, вам понравится" >2280130,227610,274059,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/3d5/cmpthvu5hx00144mpwiyyfy3ddd0gg94/1_8004_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/760/fbsk9sj19vmofj1nsk9gl51ejgg4zoco/1_8004_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d9e/lhjqnv2e80dqxkymefq9d2k7c1lgvypq/1_8004_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/7e1/topioz390abbo80db2tivg1f3vt759j5/1_8004_2.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/f09/o1qzdbjd1mn5b54ofvmav995wthpbqta/1_8004_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/31d/bea9k71q70j8ruw4gzjn47la7m3wadba/1_8004_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/0fe/vmy4tj5jp46cv5dqnyg2ke721kqk7mtl/1_8004_5.jpg</picture>
+<rating>5</rating>
+<reviews_count>5</reviews_count>
+<video main="true"> https://marioberlucci.ru/upload/iblock/f19/3g3nchyu3iqhjgfk5kj1ybn6yjmyjy9v/1_8004_8.mp4</video>
+<cashback>692</cashback>
+      </offer>
+      <offer id="216911"  available="false" 
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8004//</url>
+<price>9890</price>
+<oldprice>17990</oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8004</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">39</param>
+<param name="Цвет" hex="#0000FF">черный</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#0000FF">Черный</param>
+<param name="Цвет подкладки" hex="#0000FF»>Черный</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота модели, в см"> 13</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы, в см">3.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип мыса">открытый</param>
+<param name="Тип каблука">широкий</param>
+<param name="Высота каблука, в см">7</param>
+<param name="Тип застежки">пряжка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и средним подъёмом стопы. Однотонные босоножки из новой коллекции выполнены из натуральной мягкой кожи и дополнены эффектной платформой на каблуке. Пряжка позволяет регулировать полноту, специальная анатомическая стелька из кожи обеспечивает комфорт на весь день. Современная модель превосходно впишется в модный образ и останется актуальной не один сезон. </description>
+<rec title="Возможно, вам понравится" >280130,227610,274059,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/3d5/cmpthvu5hx00144mpwiyyfy3ddd0gg94/1_8004_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/760/fbsk9sj19vmofj1nsk9gl51ejgg4zoco/1_8004_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d9e/lhjqnv2e80dqxkymefq9d2k7c1lgvypq/1_8004_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/7e1/topioz390abbo80db2tivg1f3vt759j5/1_8004_2.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/f09/o1qzdbjd1mn5b54ofvmav995wthpbqta/1_8004_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/31d/bea9k71q70j8ruw4gzjn47la7m3wadba/1_8004_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/0fe/vmy4tj5jp46cv5dqnyg2ke721kqk7mtl/1_8004_5.jpg</picture>
+<rating>5</rating>
+<reviews_count>5</reviews_count>
+<video main="true"> https://marioberlucci.ru/upload/iblock/f19/3g3nchyu3iqhjgfk5kj1ybn6yjmyjy9v/1_8004_8.mp4</video>
+<cashback>692</cashback>
+      </offer>
+      <offer id="216911"  available="true" 
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8004//</url>
+<price>9890</price>
+<oldprice>17990</oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8004</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">40</param>
+<param name="Цвет" hex="#0000FF">черный</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#0000FF">Черный</param>
+<param name="Цвет подкладки" hex="#0000FF»>Черный</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота модели, в см"> 13</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы, в см">3.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип мыса">открытый</param>
+<param name="Тип каблука">широкий</param>
+<param name="Высота каблука, в см">7</param>
+<param name="Тип застежки">пряжка</param>
+<param name="Цвет фурнитуры" hex="#0000FF">металлик</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и средним подъёмом стопы. Однотонные босоножки из новой коллекции выполнены из натуральной мягкой кожи и дополнены эффектной платформой на каблуке. Пряжка позволяет регулировать полноту, специальная анатомическая стелька из кожи обеспечивает комфорт на весь день. Современная модель превосходно впишется в модный образ и останется актуальной не один сезон. </description>
+<rec title="Возможно, вам понравится" >280130,227610,274059,274071</rec>
+<picture>https://marioberlucci.ru/upload/iblock/3d5/cmpthvu5hx00144mpwiyyfy3ddd0gg94/1_8004_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/760/fbsk9sj19vmofj1nsk9gl51ejgg4zoco/1_8004_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d9e/lhjqnv2e80dqxkymefq9d2k7c1lgvypq/1_8004_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/7e1/topioz390abbo80db2tivg1f3vt759j5/1_8004_2.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/f09/o1qzdbjd1mn5b54ofvmav995wthpbqta/1_8004_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/31d/bea9k71q70j8ruw4gzjn47la7m3wadba/1_8004_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/0fe/vmy4tj5jp46cv5dqnyg2ke721kqk7mtl/1_8004_5.jpg</picture>
+<rating>5</rating>
+<reviews_count>5</reviews_count>
+<video main="true"> https://marioberlucci.ru/upload/iblock/f19/3g3nchyu3iqhjgfk5kj1ybn6yjmyjy9v/1_8004_8.mp4</video>
+<cashback>692</cashback>
+      </offer>
+<offer id="280130"  available="true" group_id="1-8298" 
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_10123_01//</url>
+<price>11990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8298-10R</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">36</param>
+<param name="Цвет" hex="#ffffff">белый</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" hex="#ffffff">белый</param>
+<param name="Цвет подкладки" hex="#ffffff">белый</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы, в см">1.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип каблука">платформа</param>
+<param name="Высота каблука, в см">3</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней и узкой полнотой и средним подъёмом стопы. Стильные сандалии из новой коллекции выполнены из натуральной гладкой кожи и представлены в белом цвете. Мягкая кожаная подкладка идеально облегает стопу, платформа из экологичного полимера позволяет равномерно распределить нагрузку во время ходьбы. Актуальная модель удачно сочетается с элементами классического и современного гардероба. </description>
+<rec title="Возможно, вам понравится" >227610,274059,274071,216911 </rec>
+<picture>https://marioberlucci.ru/upload/iblock/499/iy7x1cu213mdkvnfyvfl3k3ana7gjzlv/1_8298_10R-_1_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/5d0/0ygln1ze0srt93fyhnfjzg8uqxx80gsy/1_8298_10R-_2_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/7df/ekshqpd1s2svdq2vuz1mugj90qbi3rh2/1_8298_10R-_3_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d1b/9wkm8djpmx2lk55l3g9le16iblu3079v/1_8298_10R-_4_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/10b/x02phnm7515galv4ljsmmyy61wnajuyp/1_8298_10R-_5_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/707/85mtrgihpup96j8b9eivyq6ayy46fopt/1_8298_10R-_6_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/4d1/jo7dpot4zllron0hcs34828kiad06m1i/1_8298_10R-_7_.jpg</picture>
+<rating>5</rating>
+<reviews_count>6</reviews_count>
+<cashback>839</cashback>
+      </offer>
+<offer id="227610"  available="true" group_id="1-8083">
+<name>Сандали из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_1_8083_04//</url>
+<price>9990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>507</categoryId>
+<model>1-8083-04</model>
+<typePrefix>Сандали</typePrefix>  
+<param name="Размер">36</param>
+<param name="Цвет" hex="#a25f2a">коричневый</param>
+<param name="Сезон">Лето</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Тип стельки">несъемная</param>
+<param name="Цвет стельки" >коричневый</param>
+<param name="Цвет подкладки" >коричневый</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Материал подошвы">полимер</param>
+<param name="Высота подошвы, в см">1.5</param>
+<param name="Полнота обуви">7(G)</param>
+<param name="Тип каблука">платформа</param>
+<param name="Высота каблука, в см">3</param>
+<param name="Тип застежки">пряжка</param>
+<param name="Цвет фурнитуры">золото</param>
+<param name="Метод крепления фурнитуры">сквозной</param>
+<param name="Рост модели">168</param>
+<param name="Размер обуви на фото">38</param>
+<description> Обратите внимание: данная модель идёт в размер и отлично подходит для ног со средней полнотой и любым подъёмом стопы. Однотонные сандалии из новой коллекции выполнены из натуральной мягкой кожи и декорированы золотистой фурнитурой. Современный силуэт дополнен изящными ремешками и удобной застёжкой в виде пряжки. Анатомическая кожаная стелька гарантирует высокий уровень комфорта. Актуальная модель идеально впишется в модный образ на каждый день.</description>
+<rec title="Возможно, вам понравится" >274059,274071,216911,280130 </rec>
+<picture>https://marioberlucci.ru/upload/iblock/111/nqtczpgtggem2njo3kpghplc3uw4vfgp/1_8083_04_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/702/bkihmrjzuvud8oep0efvk98bjwurt463/1_8083_04_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/6e2/hrudosojayxo7092xmjwz2hcxrn6syud/1_8083_04_2.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/8ba/brs9528s0piojlo5963b18zys0nrpkl8/1_8083_04_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/836/jnubotxkqvs31y5hd5bszvnhdehegkxi/1_8083_04_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/6eb/q4pq0r5j08fp9nm68chrphk9t3gh2mz4/1_8083_04_7.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/261/bf0f3xa267418d0ormdrs8nq4fohv1ud/1_8083_04_5.jpg</picture>
+<rating>4.4</rating>
+<reviews_count>5</reviews_count>
+<cashback>699</cashback>
+      </offer>
+      <offer id="226050"  available="true"  
+<name>Сумка из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_13_10081//</url>
+<price>9990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>760</categoryId>
+<model>13-10081</model>
+<typePrefix>Сумка</typePrefix>  
+<param name="Цвет" hex="#a08040">хаки</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Высота модели, в см"> 15</param>
+<param name="Тип каблука">платформа</param>
+<param name="Высота каблука в см">4</param>
+<param name="Тип застежки">пряжка</param>
+<param name="Цвет фурнитуры" >серебро</param>
+<param name="Длина дна, в см" >20</param>
+<param name="Ширина дна, в см" >8</param>
+<param name="Высота ручек, в см" >7</param>
+<param name="Плечевой ремень, длина в см" >103</param>
+<param name="Внутренние карманы (кол-во штук)">2</param>
+<param name="Ширина, в см">19</param>
+<description> Компактная сумка из новой коллекции изготовлена из натуральной зернистой кожи и представлена в однотонном дизайне. Основное отделение закрывается на пряжку и имеет два внутренних кармана для мелочей. В комплект входит два съемных плечевых ремня разной длины. Актуальная модель станет украшением как классического, так и современного наряда. </description>
+<rec title="Возможно, вам понравится">277523,264833,219206</rec>
+<picture>https://marioberlucci.ru/upload/iblock/612/ef2g6ikjf8e94tp2369ge7l36v38899b/13_10081_8_.jpg</picture>
+<picture>hhttps://marioberlucci.ru/upload/iblock/a48/jkxbziehrvib4qv7lmf5c98rhq9ew8xg/13_10081_1_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/c3f/gs6hn3ant7uec5ubhf7ndri2wgbla1zf/13_10081-_2_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/354/8cnunqy1xwrb2o6uqce1g5b8kymt0x3k/13_10081-_3_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/317/ua5713y72b5vslixe1osrh1dxwy51j07/13_10081-_4_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/6ca/c4qruh2hqfvnx4ymtoxh19ewmachiudl/13_10081-_5_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d2f/ypfckgb81knbzergruqfp05lqw4ncopa/13_10081-_6_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/c5e/cwahkzqm69fab8bli495hbe9c67bc9e0/13_10081-_7_.jpg</picture>
+<cashback>699</cashback>
+      </offer>
+      <offer id="277631"  available="true" group_id="13-10073" />
+<name>Сумка из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_13_10073_20//</url>
+<price>8990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>760</categoryId>
+<model>13-10073-20</model>
+<typePrefix>Сумка</typePrefix>  
+<param name="Цвет" hex="#b2ec5d">салатовый</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Высота модели, в см">26</param>
+<param name="Тип застежки">магнит</param>
+<param name="Цвет фурнитуры" >серебро</param>
+<param name="Длина дна, в см" >19</param>
+<param name="Ширина дна, в см" >12</param>
+<param name="Высота ручек, в см" >21</param>
+<param name="Плечевой ремень, длина в см" >80</param>
+<param name="Ширина, в см">28</param>
+<description> Стильная сумка из новой коллекции изготовлена из натуральной кожи и дополнена удобной ручкой. Основное отделение закрывается на магнит, в комплект входит косметичка с двумя внутренними карманами. Съемный ремень с регулировкой позволяет носить аксессуар в руке и на плече. Однотонная модель удачно впишется в базовый и классический гардероб. <description>
+<rec title="Возможно, вам понравится">277523,264833,219206,226050 </rec>
+<picture>https://marioberlucci.ru/upload/iblock/163/c68hhvtwdetu11vb0oj19bi5241ja1mi/13_10073_20-_1_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/a06/w81i5971gkszp3mx6pv6dyafhgyqmpiu/13_10073_20-_8_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/b05/1t3xhc9u3wph0iou0gwrq45pmqjtsce2/13_10073_20-_2_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/37e/tt7hbqdxkaosm7s4r31b7ju5dpvfxhtp/13_10073_20-_3_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/8d9/lvckrfl3z2o4lmxt4pozfrawhb2ctypb/13_10073_20-_4_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/295/9feji1sjrf5gp0lq910cw19vrpgzq8c5/13_10073_20-_5_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/290/y172bi8db22hzp3syn0x7oge1e1wheff/13_10073_20-_6_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/889/q0fxlaji83n414hgl050zhs9jaf22fx2/13_10073_20-_7_.jpg</picture>
+<cashback>629</cashback>
+      </offer>
+      <offer id="219206"  available="true"/>
+<name>Сумка экомех</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_13_7135//</url>
+<price>5990</price>
+<oldprice>8990 </oldprice>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>760</categoryId>
+<model>13-7135</model>
+<typePrefix>Сумка</typePrefix>  
+<param name="Цвет" hex="#f2e8c9">бежевый</param>
+<param name="Внешний материал">экомех</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Высота модели, в см">19</param>
+<param name="Тип застежки">молния</param>
+<param name="Цвет фурнитуры" >золото</param>
+<param name="Длина дна, в см" >25</param>
+<param name="Ширина дна, в см" >4</param>
+<param name="Высота ручек, в см" >10</param>
+<param name="Внутренние карманы (кол-во штук)" >2</param>
+<param name="Ширина, в см">24</param>
+<description> Оригинальная сумка из новой коллекции изготовлена из мягкого экомеха бежевого цвета и дополнена удобной ручкой. Основное отделение закрывается на молнию, оснащено кожаной подкладкой и внутренним карманом для мелочей. Эффектная модель в оригинальной отделке станет модным акцентом в гардеробе и поможет оставаться в центре внимания. <description>
+<rec title="Возможно, вам понравится" >277523,264833,277631,226050</rec>
+<picture>https://marioberlucci.ru/upload/iblock/157/7k25qfqbcj14qfn1w1o9qkqps2vod6wt/13_7135_9.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/7b4/muk8jgpxvkf17g2vq59dwzz01z73es8f/13_7135_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/9f7/da085y3ymd2ifinp2ua320gww2fk0hpr/13_7135_2.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/349/vkp6rpayejqt1cqb9rrf5v7qvv398fi3/13_7135_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/d97/unapqok6do0lpd9yeoloje1stfp97i6w/13_7135_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/893/0j5oe6kg8pqdyxpgvlaicfblqbg8x3v8/13_7135_5.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/398/o50dm7cnb5jd11mob9g2xpfvq7v48zmu/13_7135_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/924/e48y0qage4fgvp7z25qp9p54vfg67rzm/13_7135_7.jpg</picture>
+<rating>4.8</rating>
+<reviews_count>5</reviews_count>
+<cashback>419</cashback>
+      </offer>
+      <offer id="264833"  available="true"/>
+<name>Сумка из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_13_10017//</url>
+<price>11990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<categoryId>760</categoryId>
+<model>13-10017</model>
+<typePrefix>Сумка</typePrefix>  
+<param name="Цвет" hex="#000000">Черный</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">текстиль</param>
+<param name="Высота модели, в см">28</param>
+<param name="Тип застежки">без застежки</param>
+<param name="Цвет фурнитуры" >золото</param>
+<param name="Длина дна, в см" >30</param>
+<param name="Ширина дна, в см" >8</param>
+<param name="Высота ручек, в см" >23</param>
+<param name="Внутренние карманы (кол-во штук)" >1</param>
+<param name="Ширина, в см">42</param>
+<description> Стильная сумка из новой коллекции изготовлена из натуральной кожи и декорирована классической строчкой. Традиционный крой дополнен двумя удобными ручками и внутренним карманом для мелочей. В комплект входит кожаная косметичка на молнии в тон. Вместительная модель удачно впишется в повседневный гардероб и останется актуальной не один сезон. <description>
+<rec title="Возможно, вам понравится">277523,219206,277631,226050</rec>
+<picture>https://marioberlucci.ru/upload/iblock/986/xl612uqkb1lv96rgxko5mo735b5nc9lr/13_10017_8.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/bd8/yfldb7vaap0uvkmikmnbicvo3pjah31i/13_10017_1.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/57b/k1lau2pkik05vt7g6dkfc6dk25xebwx7/13_10017_2.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/ac6/vex5h7u11w87va9hx2ss6929f0upi2md/13_10017_3.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/a57/vtj5ozj6r4lb76c7n18l09hjz8alovtr/13_10017_4.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/1c9/qmb8si2fz0jk44rugr1xs5etob3tu21h/13_10017_5.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/3a7/3i3u8e4clr6r2chkz2619mlvj217yo0h/13_10017_6.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/ec6/xvw0c08kndaqm3dimlj22h2ol0b51b1k/13_10017_7.jpg</picture>
+<rating>5</rating>
+<reviews_count>4</reviews_count>
+<cashback>839</cashback>
+      </offer>
+      <offer id="277523"  available="true"/>
+<name>Сумка из натуральной кожи</name>
+<url>https://marioberlucci.ru/product/mario_berlucci_13_10084_14//</url>
+<price>8990</price>
+<currencyId>RUB</currencyId>
+<vendor>Mario Berlucci</vendor>    
+<vendorCode>…..</vendorCode>
+<categoryId>760</categoryId>
+<model>13-10084-14</model>
+<typePrefix>Сумка</typePrefix>  
+<param name="Цвет" hex="#fff785">желтый</param>
+<param name="Внешний материал">100% натуральная кожа</param>
+<param name="Внутренний материал">100% натуральная кожа</param>
+<param name="Высота модели, в см">21</param>
+<param name="Тип застежки">клапан</param>
+<param name="Цвет фурнитуры" >золото</param>
+<param name="Длина дна, в см" >21</param>
+<param name="Ширина дна, в см" >17</param>
+<param name="Высота ручек, в см" >14</param>
+<param name="Ширина, в см">36</param>
+<description> Эффектная сумка из новой коллекции изготовлена из натуральной кожи и представлена в однотонном дизайне. Объёмный силуэт дополнен двумя удобными ручками и оригинальной застёжкой. В комплект входит текстильная косметичка с четырьмя внутренними карманами. Современная модель удачно впишется в повседневный образ и поможет оставаться в тренде. <description>
+<rec title="Возможно, вам понравится" >264833,219206,277631,226050</rec>
+<picture>https://marioberlucci.ru/upload/iblock/6ca/ufet47a9rpf6rw4o3qgcbvexrd37kwab/13_10084_14_8_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/6e5/bdde2nqo5u6kkymcfrnbqmpj118zqbq0/13_10084_14_1_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/86a/ffzyt1l4rxn1s1m2sb0kjg8dasklpg6o/13_10084_14-_2_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/6ec/w9ge5g7q4af60l1npu19iim2pbbqia4j/13_10084_14-_3_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/b00/80qz5613epyb5t8vdvjdtv01qeq5q2ps/13_10084_14-_4_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/b00/80qz5613epyb5t8vdvjdtv01qeq5q2ps/13_10084_14-_4_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/5ff/v9jb7vt2hw4vz406jpty04sm4jyahv7q/13_10084_14-_6_.jpg</picture>
+<picture>https://marioberlucci.ru/upload/iblock/5d9/5t8fht9cf6uf4ufausvy9tzjdl2tiy11/13_10084_14-_7_.jpg</picture>
+<rating>5</rating>
+<reviews_count>2</reviews_count>
+<cashback>629</cashback>
+      </offer>
+  </offers>
+  </shop>
+</yml_catalog>
