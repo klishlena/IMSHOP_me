@@ -5,9 +5,7 @@
     <company>Mario Berlucci</company>
     <url>https://marioberlucci.ru</url>
     <categories>
-      <category id ="501" picture="https://marioberlucci.ru/upload/iblock/08b/icw0c6u6b1yb3bkosy5b7d2vq8ccog2r/bosonozhki.jpg">Обувь</category>
-      <category id ="507" parentId="501" picture="https://marioberlucci.ru/upload/iblock/08b/icw0c6u6b1yb3bkosy5b7d2vq8ccog2r/bosonozhki.jpg">Женские сандали</category>
-      <category id ="555" picture="https://marioberlucci.ru/upload/iblock/08b/icw0c6u6b1yb3bkosy5b7d2vq8ccog2r/bosonozhki.jpg">Сумки</category>
+      <category id ="507" picture="https://marioberlucci.ru/upload/iblock/08b/icw0c6u6b1yb3bkosy5b7d2vq8ccog2r/bosonozhki.jpg">Женские сандали</category>
       <category id ="760" parentId="555" picture="https://marioberlucci.ru/upload/iblock/08b/icw0c6u6b1yb3bkosy5b7d2vq8ccog2r/bosonozhki.jpg">Сумки</category>
     </categories>
     <offers>
