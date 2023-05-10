@@ -6,9 +6,9 @@
     <url>https://marioberlucci.ru</url>
     <categories>
       <category id ="501" picture="https://marioberlucci.ru/upload/iblock/08b/icw0c6u6b1yb3bkosy5b7d2vq8ccog2r/bosonozhki.jpg">Обувь</category>
-      <category id ="507" parentId="501" picture="https://marioberlucci.ru/upload/iblock/08b/icw0c6u6b1yb3bkosy5b7d2vq8ccog2r/bosonozhki.jpg"> Женские сандали</category>
-      <category id ="555" picture="https://marioberlucci.ru/upload/resize_cache/iblock/638/ob3zgvv90o4p90305kvilxoc8w2xhmkt/473_690_1/13_10080_8_.jpg">Сумки</category>
-      <category id ="760" parentId="555" picture="https://marioberlucci.ru/upload/resize_cache/iblock/638/ob3zgvv90o4p90305kvilxoc8w2xhmkt/473_690_1/13_10080_8_.jpg">Сумки</category>
+      <category id ="507" parentId="501" picture="https://marioberlucci.ru/upload/iblock/08b/icw0c6u6b1yb3bkosy5b7d2vq8ccog2r/bosonozhki.jpg">Женские сандали</category>
+      <category id ="555" picture="https://marioberlucci.ru/upload/iblock/08b/icw0c6u6b1yb3bkosy5b7d2vq8ccog2r/bosonozhki.jpg">Сумки</category>
+      <category id ="760" parentId="555" picture="https://marioberlucci.ru/upload/iblock/08b/icw0c6u6b1yb3bkosy5b7d2vq8ccog2r/bosonozhki.jpg">Сумки</category>
     </categories>
     <offers>
       <offer id="274059"  available="true" group_id="1-10123">
