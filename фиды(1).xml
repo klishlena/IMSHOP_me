@@ -185,7 +185,7 @@
 <model>1-10123-01</model>
 <typePrefix>Сандали</typePrefix>  
 <param name="Размер">40</param>
-<param name="Цвет" hex=>Черный</param>
+<param name="Цвет"=>Черный</param>
 <param name="Сезон">Лето"</param>
 <param name="Внешний материал">100% натуральная кожа</param>
 <param name="Внутренний материал">100% натуральная кожа</param>
